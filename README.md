@@ -116,6 +116,9 @@ Choose one of the three recommended platforms below and sign up (you can often s
 3. Railway automatically detects the `Procfile`. To add environment variables, go to the **Variables** tab and add `ADMIN_PASSWORD`, `SECRET_KEY`, and `DOMAIN` with appropriate values.
 4. The build starts automatically, and you’ll receive a public domain.
 
+[!TIP]
+🗝️ Railway users: Add Railway's IP range to the Clean IP list for accurate scanning.
+
 </details>
 
 <details>
@@ -231,4 +234,3 @@ A massive thank you to the platforms and communities that make free internet too
   - [Chart.js](https://www.chartjs.org/)  
   - [aiosqlite](https://github.com/omnilib/aiosqlite)
 * The **[V2Fly](https://www.v2fly.org/)** project.
-```
